@@ -13,13 +13,13 @@ pip install mlflow
 ## Usage
 
 ```bash
-cd ./Build-a-ML-Pipeline-for-Short-term-Rental-Prices-in-NYC
+cd ./NYC_udacity
 mlflow run . 
 ``` 
 
 Run EDA step which will open a jupyter notebook
 ```bash
-cd ./Build-a-ML-Pipeline-for-Short-term-Rental-Prices-in-NYC/componenets/EDA
+cd ./NYC_udacity/componenets/EDA
 mlflow run . 
 ```
 
